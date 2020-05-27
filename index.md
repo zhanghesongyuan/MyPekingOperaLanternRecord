@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的京剧鉴赏日记
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyPekingOperaLanternRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一款专门为京剧鉴赏设计的个人日记工具，你可以给自己的日记添加密码锁，防止他人翻看你的日记。当你正确解锁日记本后，你可以查看该条京剧鉴赏的笔记，包括你的京剧鉴赏技巧和心得等信息。你可以随时编辑日记中的资料，你也可以修改解锁答案设置，帮助你更好的管理自己的鉴赏日记资料。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyPekingOperaLanternRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
